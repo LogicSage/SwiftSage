@@ -456,7 +456,20 @@ More screenshots at the bottom
 ----
 04-23-2023: DEBATE MODE introduced.
 
+
+
+
+
+LogicSage was here! 
+
 ----
 04-22-2023
 
 SwiftSage evolves with real-time voice synthesis and Google command integration for enhanced SwiftSage features.
+
+
+
+
+
+
+
